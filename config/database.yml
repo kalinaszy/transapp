@@ -19,4 +19,3 @@ production:
   host: <%= ENV['POSTGRES_HOST'] %>
   username: <%= ENV['POSTGRES_USER'] %>
   password: <%= ENV['POSTGRES_PASSWORD'] %>
-r
